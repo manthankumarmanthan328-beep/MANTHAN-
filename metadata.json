@@ -1,0 +1,6 @@
+{
+  "name": "Prime Estate",
+  "description": "Ultra-luxury real estate platform with AI-powered property recommendations, interactive 3D virtual tours, smart search, and VIP estate concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
